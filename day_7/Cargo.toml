@@ -1,0 +1,8 @@
+[package]
+name = "day_7"
+version = "0.1.0"
+authors = ["thebarbershopper <cld251@gmail.com>"]
+
+[dependencies]
+indextree = "1.1.0"
+regex = "0.2.3"

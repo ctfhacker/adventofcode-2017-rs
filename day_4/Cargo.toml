@@ -1,0 +1,8 @@
+[package]
+name = "day_4"
+version = "0.1.0"
+authors = ["thebarbershopper <cld251@gmail.com>"]
+
+[dependencies]
+itertools = "*"
+permutohedron = "0.2.4"

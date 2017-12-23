@@ -1,0 +1,14 @@
+[root]
+name = "day_9"
+version = "0.1.0"
+dependencies = [
+ "indextree 1.1.0 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
+name = "indextree"
+version = "1.1.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[metadata]
+"checksum indextree 1.1.0 (registry+https://github.com/rust-lang/crates.io-index)" = "2a7a9bba58b624eb4a5336e728be35b60db0216a41db4bc9630de28c352e13bd"
